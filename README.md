@@ -17,7 +17,8 @@ Requirements:
 Bugs:
 1)Registration is successful without fill the field Organization Name
 Steps:
-1.Fill field Email address ("test@gmail.com")
+1.Fill field Email address ("test@gmail.com") 
+
 2.Fill field First name ("Testing")
 3.Fill field Last name ("User")
 4.Fill field Password ("test")
